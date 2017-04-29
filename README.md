@@ -10,10 +10,10 @@ The Man, the Myth, the Captain. You guessed it, it's Jeff Kaplan. Jeff Kaplan bo
 
 # TODO
 **Overwatch Meme Posting:**
-[x] Have bot able to send a message to a given channel.
-[ ] Retrieve and parse JSON response. (https://www.reddit.com/r/overwatchmemes/new.json?limit=1)
-[ ] Post formatted response to channel on command.
-[ ] Continue updating and posting on a given interval (while checking for duplicate posts).
+- [x] Have bot able to send a message to a given channel.
+- [ ] Retrieve and parse JSON response. (https://www.reddit.com/r/overwatchmemes/new.json?limit=1)
+- [ ] Post formatted response to channel on command.
+- [ ] Continue updating and posting on a given interval (while checking for duplicate posts).
 
 # API Reference
 https://github.com/austinv11/Discord4J (The main API used within the bot)
